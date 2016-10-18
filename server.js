@@ -22,5 +22,5 @@ function gallery(req, res){
 }
 
 function listenCallback(){
-  console.log('nowlistening on port' + server.get('port'));
+  console.log('now listening on port' + server.get('port'));
 }
